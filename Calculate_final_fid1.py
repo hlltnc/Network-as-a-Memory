@@ -1,6 +1,6 @@
 import math
 # 
-#  Fidelity formülü (senin verdiğin)
+#  
 
 
 
